@@ -161,14 +161,14 @@ header .logo img {
 .token-line .line {
     width: 100%;
     height: 10px;
-    background: rgba(179, 179, 179, 0.941);
+    background: hsla(0, 0%, 75%, 0.941);
     border-radius: 6px;
 }
 
 .token-line .progress-line {
     position: absolute;
     inset: 0px;
-    background: #ffff45;
+    background: #e6e2c7;
     height: 10px;
     border-radius: 6px;
 }
@@ -330,11 +330,11 @@ header .logo img {
     letter-spacing: 0.5px;
     margin-right: 30px;
     justify-content: center !important;
-    background: #6100ff
+    background: #512da8
 }
 
 #root button:hover {
-    background: #863bff
+    background: #2e1a5d
 }
 
 .button-box {
